@@ -21,7 +21,7 @@ The Contact Manager program provides the following options:
 
 - Display all contacts: Displays a list of all contacts with their name, phone number, and email address.
 
--Delete contact: Allows the user to delete a contact by name.
+- Delete contact: Allows the user to delete a contact by name.
 
 - Exit: Exits the program.
 
